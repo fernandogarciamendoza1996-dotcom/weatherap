@@ -15,19 +15,21 @@ WeatherAp is a personal portfolio project focused on API integration, asynchrono
 * **Default Location:** Start with San Lorenzo, Honduras.
 * **Modern UI:** A blue gradient design with dedicated weather information and forecast cards.
 
-Screenshots
-Home Screen
+## Screenshots
 
+### Home Screen
 
+![WeatherAp Home 1](screenshots/home1.png)
 
+![WeatherAp Home 2](screenshots/home2.png)
 
+![WeatherAp Home 3](screenshots/home3.png)
 
+### City Search
 
+![WeatherAp Search 1](screenshots/search.png)
 
-
-
-
-City Search
+![WeatherAp Search 2](screenshots/search2.png)
 
 ## Technologies
 
